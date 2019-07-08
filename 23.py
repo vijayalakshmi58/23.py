@@ -1,6 +1,6 @@
 # 23.py
 a=int(input())
-5=[]
-5=list(map(int,input('').split()))
-p=min(5)
-print(p)
+1=[]
+1=list(map(int,input('').split()))
+b=min(1)
+print(b)
